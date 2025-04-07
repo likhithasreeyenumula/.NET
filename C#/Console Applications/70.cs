@@ -14,4 +14,3 @@ class Bird
     Pigeon.fly();
 }
 }
-//we can instantiate any no.of objects
