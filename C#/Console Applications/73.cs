@@ -23,7 +23,7 @@ class Bird
         System.Console.WriteLine("Age:"+parrot.age);
         System.Console.WriteLine("Wings:"+ parrot.wings);
         System.Console.WriteLine("weight:" + parrot.wt);
-        System.Console.WriteLine("Color:"+parrot.color);
+        System.Console.WriteLine("Color:"+ parrot.color);
         parrot.fly();
         parrot.Nest();
     }
