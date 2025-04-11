@@ -20,7 +20,7 @@ class Bird
         parrot.wings = 2;
         parrot.wt = 5.2;
         parrot.color = "Green";
-        System.Console.WriteLine("Age:"+parrot.age);
+        System.Console.WriteLine("Age:"+ parrot.age);
         System.Console.WriteLine("Wings:"+ parrot.wings);
         System.Console.WriteLine("weight:" + parrot.wt);
         System.Console.WriteLine("Color:"+ parrot.color);
