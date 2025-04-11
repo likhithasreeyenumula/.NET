@@ -21,7 +21,7 @@ System.Console.Clear();
 System.Console.WriteLine("--------------------------------------------");
 System.Console.WriteLine("EMPLOYEE DETAILS");
 System.Console.WriteLine("--------------------------------------------");
-System.Console.WriteLine("Number="+ eno);
+System.Console.WriteLine("Number=" + eno);
 System.Console.WriteLine("Name=" + ename);
 System.Console.WriteLine("Salary=" + esal);
 System.Console.WriteLine("Provident fund=" + epf);
